@@ -1,7 +1,7 @@
 /*
  * Aditya Wahyu Pradhana
  * Timer
- * June 17, 2021
+ * July 20, 2021
 */
 
 #define over 60000
